@@ -1,0 +1,6 @@
+{
+  "name": "Date Hospital",
+  "description": "Modern, premium, responsive, and SEO-friendly website for Date Hospital, featuring professional medical services, appointment booking, doctor profiles, and emergency care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
